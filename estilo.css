@@ -1,0 +1,84 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Montserrat, sans-serif;
+    background-image: url(f673f14346db0c0eb4c7b86198027919.webp);
+
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color:rgb(173, 255, 8) ;
+    font-style: italic;
+}
+.conteiner{
+    width: 700px;
+    border: 3px solid red;
+    margin: 50px auto;
+    padding: 30px 30px 60px;
+    position: relative;
+    background-color: yellow;
+}
+.icone{
+    color: yellow;
+    background-color: red;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 800px;
+    width: 70px;
+    height: 50px;
+    padding-top: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top:-45px ;
+    left: -25px;
+}
+.botao{
+    border: none;
+    border-radius: 5px;
+    color: #fff700;
+    font-weight: 800px;
+    font-size: 18px;
+    background-color: #ff1700;
+    text-decoration: none;
+    width: 240px;
+    text-align: center;
+    padding: 15px;
+    position: absolute;
+    bottom: -26px;
+    right: 10px
+}
+h3{
+    margin-bottom: 20px;
+    font-size: 26px;
+}
+.igredientes{
+    font-size: 20px;
+}
+.queijo{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    border: solid 2px black;
+    border-radius: 4px;
+    top: -50px;
+    right: -50px
+}
+.Marguerita{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    border: solid 2px black;
+    border-radius: 4px;
+    top: -29px;
+    right: -50px
+}
+.frangoc,.muçarela,.Napolitana,.queijo1{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    border: solid 2px black;
+    border-radius: 4px;
+    top: -29px;
+    right: -110px
+}
